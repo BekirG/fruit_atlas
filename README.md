@@ -3,11 +3,11 @@
 
 # Fruit Information App
 
-This application is a Flutter app that displays information about fruits, such as calorie values, families, and protein content.
+This application is a Flutter app that displays information about fruits, such as calorie values, families, and nutrient ratios.
 
 ## Features
 
-- Quick access to information about the calorie values, families, and protein content of fruits
+- Quick access to information about the calorie values, families, and nutrient ratios of fruits
 - Codebase created using clean architecture and test-driven development principles
 - Detailed DartDoc documentation
 
