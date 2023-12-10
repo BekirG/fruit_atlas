@@ -9,7 +9,7 @@ This application is a Flutter app that displays information about fruits, such a
 
 - Quick access to information about the calorie values, families, and nutrient ratios of fruits
 - Codebase created using clean architecture and test-driven development principles
-- Detailed DartDoc documentation
+- Detailed DartDoc documentation (https://bekirg.github.io/fruit_atlas_doc/)
 
 # Meyve Bilgi Uygulaması
 
